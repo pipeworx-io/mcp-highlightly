@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-highlightly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Highlightly MCP — cheap multi-sport scores, video highlights, and match",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c296a3cfc9e92ff80db722317639b5204e86528620a5437783af2b7b45b16d2a",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-bf2b367b676a235eb107f17b082fdfb2b0a9f3669dfac8025863bb4b917ff404",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
