@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-highlightly",
-  "version": "0.1.2",
-  "description": "Highlightly MCP — cheap multi-sport scores, video highlights, and match",
+  "version": "0.1.3",
+  "description": "Highlightly MCP — cheap multi-sport scores, video highlights, and match predictions (highlightly.net). BYO key.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bf2b367b676a235eb107f17b082fdfb2b0a9f3669dfac8025863bb4b917ff404",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-8eafc9e886695f423f207b05d9d2516b507303158a5160938e89604ec6234479",
+    "sourceCommit": "24e32b525f9c0b2fd7d94b519b08abb108cc11cd"
   }
 }
