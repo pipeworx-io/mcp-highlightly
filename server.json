@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/highlightly",
   "title": "Highlightly",
   "description": "Highlightly MCP — cheap multi-sport scores, video highlights, and match predictions…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/highlightly",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-highlightly",
