@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-highlightly",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Highlightly MCP — cheap multi-sport scores, video highlights, and match predictions (highlightly.net). BYO key.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "highlightly",
     "gatewaySlug": "highlightly",
-    "sourceHash": "v1-06707455b3aeb6ffbd3dc92af320ae86e73be6de8ba115ffaf90a6f3f2a4916f",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-a10a842b293fffd6c5f8053bc5fd707090cd5b18fed969fefe7837a4b0adbf4c",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
